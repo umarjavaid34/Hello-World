@@ -1,4 +1,4 @@
-# MAchine Learning Based Intrusion Detection Systemfor Software Defined Networking
+# Machine Learning Based Intrusion Detection Systemfor Software Defined Networking
 
 This is My Thesis for MS Inforamtion Security from Air University, E-9, Islamabad.
 
